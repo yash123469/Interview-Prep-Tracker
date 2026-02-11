@@ -1,0 +1,20 @@
+<body>
+  <header>
+    <h1>Interview Prep Tracker</h1>
+    <button id="themeToggle">Toggle Theme</button>
+  </header>
+
+  <section class="add-company">
+    <input type="text" id="companyName" placeholder="Company Name">
+    <button onclick="addCompany()">Add</button>
+  </section>
+
+  <section class="stats">
+    <div>DSA Solved: <span id="dsaCount">0</span></div>
+    <button onclick="increaseDSA()">+1</button>
+  </section>
+
+  <section id="companyList"></section>
+
+  <script src="script.js"></script>
+</body>
