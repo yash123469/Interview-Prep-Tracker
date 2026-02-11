@@ -3,7 +3,7 @@
 
 A responsive web dashboard built using HTML, CSS, and JavaScript to help students track their placement preparation progress including companies applied, DSA practice count, and mock interviews.
 
-🔗 Live Demo: https://yourusername.github.io/interview-prep-tracker/
+🔗 Live Demo: https://yash123469.github.io/Interview-Prep-Tracker/
 
 ---
 
